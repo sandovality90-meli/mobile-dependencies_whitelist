@@ -1998,6 +1998,10 @@
     },
     {
       "group": "io\\.opentelemetry",
+      "name": "opentelemetry-exporter-otlp-common"
+    },
+    {
+      "group": "io\\.opentelemetry",
       "name": "opentelemetry-sdk"
     },
     {
